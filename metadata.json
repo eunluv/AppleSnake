@@ -1,0 +1,5 @@
+{
+  "name": "Apple Snake Game",
+  "description": "A classic snake game where you control a snake to eat apples and grow longer. The game gets progressively faster. Avoid hitting the walls or your own tail!",
+  "requestFramePermissions": []
+}
